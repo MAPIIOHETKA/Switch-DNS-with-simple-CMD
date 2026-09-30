@@ -1,3 +1,5 @@
+[![Latest release](https://img.shields.io/github/v/release/MAPIIOHETKA/Switch-DNS-with-simple-CMD?color=green)](https://github.com/MAPIIOHETKA/Switch-DNS-with-simple-CMD/releases/latest)
+
 # Switch-DNS-with-simple-CMD
 
 > Простая Windows-утилита в одном `.bat`-файле: автоматически находит активный сетевой адаптер, показывает текущие DNS и позволяет сменить их на один из популярных публичных DNS-серверов в пару нажатий.
