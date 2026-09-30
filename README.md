@@ -12,6 +12,10 @@
 
 ---
 
+## Демо
+
+![Меню утилиты](https://github.com/user-attachments/assets/59be4da3-e399-4ca3-aefe-25687539b5ff)
+
 ## Возможности
 
 - **Автоопределение активного адаптера** — через `Get-NetConnectionProfile` / `Get-NetIPConfiguration`, с ручным вводом имени как fallback.
