@@ -62,34 +62,30 @@
 
 ## Использование
 
-1. Запусти `DNS Changer.bat`.
+1. Запусти `DNS-Changer.bat`.
 2. В шапке меню увидишь активный адаптер и его текущие DNS.
 3. Введи номер нужного DNS-провайдера (1–11) и нажми Enter.
+
+```
 ============================================
-Active adapter: "Ethernet"
+ Active adapter: "Ethernet"
 ============================================
 Current DNS (IPv4):
-Statically configured DNS servers: 8.8.8.8
-8.8.4.4
+    Статически настроенные DNS-серверы:    8.8.8.8
+                                          8.8.4.4
 Current DNS (IPv6):
-...
+    ...
 
 Select DNS provider:
-
-Google DNS 8.8.8.8 [8.8.4.4]
-
-Cloudflare DNS 1.1.1.1 [1.0.0.1]
+1) Google DNS          8.8.8.8          [8.8.4.4]
+2) Cloudflare DNS      1.1.1.1          [1.0.0.1]
 ...
-
-Own Format (IPv4/IPv6)
-
-Automatic (DHCP)
-
-Close
+9) Own Format (IPv4/IPv6)
+10) Automatic (DHCP)
+11) Close
 ============================================
 Enter number (1-11):
-
-text
+```
 
 - Пункт **9** — ручной ввод. Принимает IPv4 и IPv6, адреса валидируются.
 - Пункт **10** — сбрасывает DNS на автоматическое получение от провайдера (DHCP) как для IPv4, так и для IPv6.
