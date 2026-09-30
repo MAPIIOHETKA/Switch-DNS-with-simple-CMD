@@ -7,7 +7,8 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue)
 ![Shell](https://img.shields.io/badge/shell-cmd.exe-lightgrey)
 [![License](https://img.shields.io/github/license/MAPIIOHETKA/Switch-DNS-with-simple-CMD)](https://github.com/MAPIIOHETKA/Switch-DNS-with-simple-CMD/blob/main/LICENSE)
-[![Latest release](https://img.shields.io/github/v/release/MAPIIOHETKA/Switch-DNS-with-simple-CMD?color=green)](https://github.com/MAPIIOHETKA/Switch-DNS-with-simple-CMD/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/MAPIIOHETKA/Switch-DNS-with-simple-CMD?color=green&label=release)](https://github.com/MAPIIOHETKA/Switch-DNS-with-simple-CMD/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/MAPIIOHETKA/Switch-DNS-with-simple-CMD/total)](https://github.com/MAPIIOHETKA/Switch-DNS-with-simple-CMD/releases)
 
 ---
 
